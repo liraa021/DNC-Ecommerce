@@ -1,4 +1,3 @@
-import React from "react";
 import dncLogo from "../../assets/logo-dnc.svg";
 import "./index.scss";
 
